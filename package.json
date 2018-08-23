@@ -1,0 +1,24 @@
+{
+  "name": "biwamath",
+  "version": "0.0.1",
+  "description": "a Mastodon client for the Tooting TeXnician",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabon-f/biwamath.git"
+  },
+  "author": "Hinata",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabon-f/biwamath/issues"
+  },
+  "homepage": "https://github.com/fabon-f/biwamath#readme",
+  "devDependencies": {
+    "electron": "^2.0.8",
+    "typescript": "^3.0.1"
+  }
+}
